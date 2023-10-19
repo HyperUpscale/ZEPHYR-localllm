@@ -12,4 +12,6 @@ How To Install on Windows CMD (having 'python" and 'git' already installed)
 
 5. pip install -r requirements.txt
 
-6. chainlit run zephyrllm.py
+6. [rename the example.env to .env and update the hugging face token in it with yours]
+
+7. chainlit run zephyrllm.py
